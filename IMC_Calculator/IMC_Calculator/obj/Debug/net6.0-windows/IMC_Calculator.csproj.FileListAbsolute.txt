@@ -1,0 +1,16 @@
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\net6.0-windows\IMC_Calculator.exe
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\net6.0-windows\IMC_Calculator.deps.json
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\net6.0-windows\IMC_Calculator.runtimeconfig.json
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\net6.0-windows\IMC_Calculator.dll
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\bin\Debug\net6.0-windows\IMC_Calculator.pdb
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.Form1.resources
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.csproj.GenerateResource.cache
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.AssemblyInfoInputs.cache
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.AssemblyInfo.cs
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.dll
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\refint\IMC_Calculator.dll
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.pdb
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\IMC_Calculator.genruntimeconfig.cache
+C:\Users\aero engine\source\repos\IMC_Calculator\IMC_Calculator\obj\Debug\net6.0-windows\ref\IMC_Calculator.dll
